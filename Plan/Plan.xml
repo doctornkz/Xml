@@ -1,0 +1,49 @@
+<?xml version="0.0"?>
+<Plan>
+    <Direction>
+        <Basic>Разработка</Basic>
+        <UnderDirection>Back-End</UnderDirection>
+        <UnderDirection>Автоматизация</UnderDirection>
+        <Strategy>
+            Сделать упор на навыках необходимых сейчас или в ближайшей приспективе.
+        </Strategy>
+        <Position>Младший инженер по нагрзочному тестированию(Стажер)</Position>
+    </Direction>
+    <Competence>
+        <Name status = "false">Автоматизация проводимых работ</Name>
+        <Name status = "false">Java разработчик</Name>
+        <Name status = "false">Проведение нагрузочного тестирования</Name>
+        <Name status = "false">Анализ данных</Name>
+        <Name status = "false">Работа с базами данных</Name>
+        <Name status = "false">Тайм менеджмент</Name>
+    </Competence>
+    <Skills>
+        <Skill status = "false">Работа со строками</Skill>
+        <Skill status = "false">Работа с файлами</Skill>
+        <Skill status = "false">Английски - чтение и перевод</Skill>
+        <Skill status = "false">Поиск, запись, изменение, удаление данных в базе данных</Skill>
+        <Skill status = "false">Передача сообщений через MQ</Skill>
+        <Skill status = "false">Java - анатации</Skill>
+        <Skill status = "false">Java - kafka</Skill>
+        <Skill status = "false">Git</Skill>
+        <Skill status = "false">Intellij IDEA</Skill>
+        <Skill status = "false">Анализ документации</Skill>
+        <Skill status = "false">Навык донесение информции до слушателя</Skill>
+        <Skill status = "false">Maven</Skill>
+        <Skill status = "false">Алгоритмы</Skill>
+        <Skill status = "false">Структуры данных</Skill>
+        <Skill status = "false">ООП</Skill>
+    </Skills>
+    <Books>
+        <Book status = "true" percent = "100"></Book>
+        <Book status = "false" percent = "30"></Book>
+        <Book status = "false" percent = "0"></Book>
+    </Books>
+    <Sites>
+        <Site>https://github.com/KorablevDO</Site>
+        <Site>https://hh.ru/article/301417?utm_campaign=misc_app_article301417_050917&utm_medium=email&utm_source=email</Site>
+    </Sites>
+    <PlanForTheDay>
+        <Task status = "false"></Task>
+    </PlanForTheDay>
+</Plan>
